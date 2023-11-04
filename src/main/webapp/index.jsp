@@ -12,7 +12,7 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 22px;
+      font-size: 20px;
       color: black;
       line-height: 22px;
       }
